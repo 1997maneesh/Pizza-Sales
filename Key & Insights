@@ -1,17 +1,17 @@
-####### Count the total orders 
+Count the total orders 
 
 SELECT 
     COUNT(ORDER_ID)
 FROM
     order_details;
 
-####### 48620
+48620
 
-####### Distinct count of orders
+Distinct count of orders
 
 SELECT 
     COUNT(DISTINCT (order_id))
 FROM
     order_details;
 
-####### 21350
+21350
