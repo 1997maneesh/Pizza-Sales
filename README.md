@@ -3,7 +3,7 @@
 
 This project uses real historical pizza sales data from 2015, simulating a real-world business scenario in the food service industry. The objective of this case study is to gain a deep understanding of customer preferences, product performance, and business trends using SQL and data analysis techniques.
 
-# Key Insights Delivered
+### Key Insights Delivered
 
 Category-wise contribution in total sales revenue Most profitable pizza types and sizes Peak sales times (hourly, daily, monthly trends) Recommendations for inventory and marketing based on demand patterns
 
