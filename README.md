@@ -9,34 +9,34 @@ Category-wise contribution in total sales revenue Most profitable pizza types an
 
 ### Questions
 
-Count the total orders ?
+1. Count the total orders ?
 
 
-Calculate the total revenue generated from all pizza sales ?
+2. Calculate the total revenue generated from all pizza sales ?
 
 
-Identify the month that generated the highest total revenue from pizza sales ?
+3. Identify the month that generated the highest total revenue from pizza sales ?
 
 
-Determine which pizza category generated the highest total revenue ?
+4. Determine which pizza category generated the highest total revenue ?
 
 
-Find the top 4 best-selling pizza names based on total revenue generated ?
+5. Find the top 4 best-selling pizza names based on total revenue generated ?
 
 
-Identify the most frequently ordered pizza size by calculating the total quantity sold for each size ?
+6. Identify the most frequently ordered pizza size by calculating the total quantity sold for each size ?
 
 
-Find the top 3 most sold pizza types based on the number of orders placed ?
+7. Find the top 3 most sold pizza types based on the number of orders placed ?
 
 
-Identify the highest value pizza order item ?
+8. Identify the highest value pizza order item ?
 
 
-Calculate the average number of pizzas per order ?
+9. Calculate the average number of pizzas per order ?
 
 
-Find the total quantity of pizzas sold for each pizza category ?
+10. Find the total quantity of pizzas sold for each pizza category ?
 
 
-Identify the hour of the day when the highest number of pizzas were ordered ?
+11. Identify the hour of the day when the highest number of pizzas were ordered ?
