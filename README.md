@@ -30,7 +30,7 @@ Category-wise contribution in total sales revenue Most profitable pizza types an
 7. Find the top 3 most sold pizza types based on the number of orders placed ?
 
 
-8. Identify the highest value pizza order item ?
+8. Identify the highest value pizza order ?
 
 
 9. Calculate the average number of pizzas per order ?
